@@ -13,7 +13,7 @@ This is a custom Arduino-based button box for controlling applications (e.g., ga
 - Resistors (as needed)
 
 ## Wiring Diagram
-![Wiring Diagram](wiring-diagram.png)
+![Wiring Plan](Wiring Plan.pdf)
 
 ## Code
 Upload `ButtonBox.ino` to your Arduino IDE. Adjust pin assignments if needed.
