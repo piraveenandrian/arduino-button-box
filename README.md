@@ -12,8 +12,6 @@ This is a custom Arduino-based button box for controlling applications (e.g., ga
 - Breadboard / wires
 - Resistors (as needed)
 
-## Wiring Diagram
-![Wiring Plan](Wiring Plan.pdf)
 
 ## Code
 Upload `ButtonBox.ino` to your Arduino IDE. Adjust pin assignments if needed.
